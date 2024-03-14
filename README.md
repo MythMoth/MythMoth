@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MythMoth
 - 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Python and Calculus
+- 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: https://www.linkedin.com/in/jonathan-munro/
 
 <!---
