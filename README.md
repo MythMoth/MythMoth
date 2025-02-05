@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MythMoth
+- 🏫 My name is Jonathan and I'm currently a Thrid year Data Science student at Eduvos
 - 👀 I’m interested in becoming a Data Scientist
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R and Python to improve my Data Science skills
 - 📫 How to reach me: https://www.linkedin.com/in/jonathan-munro/
 
 <!---
